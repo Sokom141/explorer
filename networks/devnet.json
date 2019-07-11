@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api/v2",
+  "title": "ctcoin Devnet Explorer",
+  "server": "http://34.77.79.164:4003/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "51",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "CTC",
+    "symbol": "₮",
     "currency": null,
     "priceChart": false
   }
